@@ -29,4 +29,4 @@ This project serves as an educational resource, especially beneficial for studen
 # Contents:
 The repository includes the Word document file (.docx) and relevant images used in the project.
 
-Feel free to clone, download, or fork the repository and explore the fascinating journey of engineering through history!
+Feel free to clone, download the repository and explore the fascinating journey of engineering through history!
