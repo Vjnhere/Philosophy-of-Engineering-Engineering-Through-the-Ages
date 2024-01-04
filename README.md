@@ -1,15 +1,15 @@
 # Philosophy-of-Engineering-Engineering-Through-the-Ages
 Philosophy of Engineering: Engineering Through the Ages
 
-# Overview:
+## Overview:
 This repository contains a comprehensive Word document project titled "Philosophy of Engineering." The project explores the evolution of engineering across various historical eras, aiming to provide insights into the development of engineering principles, practices, and innovations.
 
-# Project Details
-# Project Title:
+## Project Details
+### Project Title:
 Philosophy of Engineering: Engineering Through the Ages
-# Course Title:
+### Course Title:
 Philosophy of Engineering
-# Word Document Contents: Stages of Eras in Engineering
+### Word Document Contents: Stages of Eras in Engineering
 Prehistory
 Ancient
 Medieval
@@ -19,11 +19,11 @@ Modern
 Postmodern
 Details and illustrations depicting engineering aspects in each era.
 Discussion on the intersection of arts, science, mathematics, engineering, and technology in the context of each era.
-# Page Count:
+### Page Count:
 8 Pages
-# Target Audience:
+### Target Audience:
 Students seeking foundational knowledge of engineering's historical context.
-# How to Use:
+### How to Use:
 This project serves as an educational resource, especially beneficial for students studying engineering or related disciplines. SRM University students under the 21 regulation are welcome to access, utilize, and edit the content freely.
 
 # Contents:
